@@ -79,4 +79,13 @@ figure/
 
 # Temporary R files
 .Rtmp
-.Rtemp 
+.Rtemp
+
+# Security files - NEVER commit these
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.pem
+*.pkey 
