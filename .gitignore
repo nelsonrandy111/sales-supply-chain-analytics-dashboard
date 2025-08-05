@@ -1,0 +1,82 @@
+# R specific files
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+
+# RStudio files
+.Rproj.user/
+*.Rproj.user
+
+# R package files
+*.Rcheck/
+*.tar.gz
+*.tgz
+*.zip
+
+# R cache and temporary files
+.Rcache/
+.Rprofile
+.Renviron
+
+# Data files (uncomment if you don't want to track large data files)
+# *.csv
+# *.xlsx
+# *.xls
+# *.rds
+# *.rda
+
+# Output files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.html
+*.docx
+*.pptx
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Shiny specific
+shiny_bookmarks/
+*.sqlite
+*.db
+
+# Package installation logs
+install_logs/
+
+# R Markdown cache
+*_cache/
+*_files/
+
+# Knitr cache
+figure/
+
+# Temporary R files
+.Rtmp
+.Rtemp 
